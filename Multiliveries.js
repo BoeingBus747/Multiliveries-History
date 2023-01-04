@@ -9,6 +9,11 @@ let livObj = { "aircraft": [
   "livery": "1",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_1.jpg"
   },
+  {
+  "name": "Boeing 737 Max 8 (Akasa Air)",
+  "livery": "26.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_26.1.jpg"
+  },
 
   {
   "name": "Boeing 737 Max 8 (FlyDubai)",
@@ -93,8 +98,8 @@ let livObj = { "aircraft": [
   },
  {
   "name": "Boeing 737 Max 8 (Com Air) by IUH Airways",
-  "livery": "18",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_18.jpg"
+  "livery": "18.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_18.5.jpg"
   },
  {
   "name": "Boeing 737 Max 8 (Air Canada) by Github User 589",
@@ -126,6 +131,46 @@ let livObj = { "aircraft": [
   "livery": "23.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_23.5.jpg"
   },
+  {
+  "name": "Boeing 737 Max 8 (Biman Bangladesh) by Ahnaf552",
+  "livery": "117",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_117.jpg"
+  },
+    {
+  "name": "Boeing 737 Max 8 (Air France) by FG AIRLINES",
+  "livery": "119",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_119.jpg"
+  },
+    {
+  "name": "Boeing 737 Max 8 (Eurowings) by IUH Airways",
+  "livery": "132",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_132.jpg"
+  },
+    {
+  "name": "Boeing 737 Max 8 (USAF) by FG Airlines",
+  "livery": "133",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_133.jpg"
+  },
+   {
+  "name": "Boeing 737 Max 8 (Air Baltic) by FG Airlines",
+  "livery": "150",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_150.jpg"
+  },
+   {
+  "name": "Boeing 737 Max 8 (PANAM) by FG Airlines",
+  "livery": "156",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_156.jpg"
+  },
+     {
+  "name": "Boeing 737 Max 8 (AeroItalia) by Luca",
+  "livery": "161",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_161.jpg"
+  },
+  {
+  "name": "Boeing 737 Max 8 (Southwest) by IUH Airways",
+  "livery": "163",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_163.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -150,6 +195,11 @@ let livObj = { "aircraft": [
   "name": "Airbus a320neo (Air Asia)",
   "livery": "3.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_3.5.jpg"
+  },
+  {
+  "name": "Airbus a320neo (Nepal Airlines)",
+  "livery": "157",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_157.jpg"
   },
 {
   "name": "Airbus a320neo (Gulf Air)",
@@ -327,10 +377,157 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
   },
 {
-  "name": "Airbus a320neo (Frontier) by Github User 589",
-  "livery": "40.3",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
+  "name": "Airbus a320neo (Aeroflot)",
+  "livery": "66",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_66.jpg"
   },
+  {
+  "name": "Airbus a320neo (Aer Lingus) by IUH Airways",
+  "livery": "73",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_73.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Qantas) by IUH Airways",
+  "livery": "71",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_71.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Transavia) by IUH Airways",
+  "livery": "68",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_68.jpg"
+  },
+  {
+  "name": "Airbus a320neo (United) by IUH Airways",
+  "livery": "110",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_110.jpg"
+  },
+    {
+  "name": "Airbus a320neo (Geofs Air) by IUH Airways",
+  "livery": "111",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_111.jpg"
+  },
+  {
+  "name": "Airbus a320neo (IUH Airways) by IUH Airways",
+  "livery": "112",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_112.jpg"
+  },
+    {
+  "name": "Airbus a320neo (G-FS Alexander) by G-FS Alexander",
+  "livery": "113",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_113.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Peak Air) by Sri Vamsi Rajesh",
+  "livery": "118",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_118.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Pegasus) by ThatOneBestDoggo",
+  "livery": "120",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_120.jpg"
+  },
+   {
+  "name": "Airbus a320neo (ITA Born in 2021) by ThatOneBestDoggo",
+  "livery": "122",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_122.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Oneworld Srilankan Airlines) by SriLankanflyer",
+  "livery": "124",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_124.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Mihin Lanka) by SriLankanflyer",
+  "livery": "126",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_126.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Air Ceylon) by SriLankanflyer",
+  "livery": "128",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_128.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Air Lanka) by SriLankanflyer",
+  "livery": "129",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_129.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Greenland Air) by BladesFlightsYT",
+  "livery": "127",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_127.jpg"
+  },
+    {
+  "name": "Airbus a320neo (Easyjet Europcar) by IUH Airways",
+  "livery": "135",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_135.jpg"
+  },
+   {
+  "name": "Airbus a320neo (NEA Exeter) by IUH Airways",
+  "livery": "154",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_154.jpg"
+  },
+     {
+  "name": "Airbus a320neo (Air Malta) by SriLankanflyer",
+  "livery": "158",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_158.jpg"
+  },
+     {
+  "name": "Airbus a320neo (Thomas cook) by IUH Airways",
+  "livery": "160",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_160.jpg"
+  },
+  
+     {
+  "name": "Airbus a320neo (AI) by AI & IUH Airways",
+  "livery": "165",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_165.jpg"
+  },
+     {
+  "name": "Airbus a320neo (Vietjet) by JadenAviation",
+  "livery": "166",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_166.jpg"
+  },
+  {
+  "name": "Airbus a220 (Breeze) ",
+  "livery": "135",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_135.5.jpg"
+  },
+ {
+  "name": "Airbus a220 (Air France) ",
+  "livery": "136",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_136.jpg"
+  },
+{
+  "name": "Airbus a220 (Korean Air) ",
+  "livery": "137",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_137.jpg"
+  },
+{
+  "name": "Airbus a220 (Air Baltic) ",
+  "livery": "138",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_138.jpg"
+  },
+{
+  "name": "Airbus a220 (Airbus) ",
+  "livery": "139",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_139.jpg"
+  },
+{
+  "name": "Airbus a220 (Jet Blue) ",
+  "livery": "140",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_140.jpg"
+  },
+{
+  "name": "Airbus a220 (Air Manas) ",
+  "livery": "141",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_141.jpg"
+  },
+{
+  "name": "Airbus a220 (Air Senegal) ",
+  "livery": "142",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_142.jpg"
+  },
+
   {
   "name": "Airbus a319 (Finnair)",
   "livery": "85",
@@ -416,7 +613,21 @@ let livObj = { "aircraft": [
   "livery": "98.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.5.jpg"
   },
-
+   {
+  "name": "Airbus a319 (BEA) by IUH Airways",
+  "livery": "97.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_97.5.jpg"
+  },
+   {
+  "name": "Airbus a319 (Easyjet) IUH Airways",
+  "livery": "97.6",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_97.6.jpg"
+  },
+ {
+  "name": "Airbus a319 (Shiba&Co) by IUH Airways",
+  "livery": "97.7",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.7.jpg"
+  },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
@@ -476,6 +687,26 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-10 (Lufthansa) by Luke",
   "livery": "78",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_78.jpg"
+  },
+     {
+  "name": "Boeing 787-10 (Biman Bangladesh) by Ahnaf522",
+  "livery": "123",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_123.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Vist Vietnam) by JadenAviation",
+  "livery": "155",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_155.jpg"
+  },
+   {
+  "name": "Boeing 787-10 (Air Vietnam) by JadenAviation",
+  "livery": "156",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_156.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Juneyao silk ribbon) by Burner7",
+  "livery": "159",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_159.jpg"
   },
 {
   "name": "Boeing 787-9 (Thai Airways) ",
@@ -571,15 +802,41 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-9 (Gulf Air) ",
   "livery": "105.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_105.5.jpg"
+  },
+     {
+  "name": "Boeing 787-9 (TUI) by IUH AIrways ",
+  "livery": "115",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_115.jpg"
+  },
+  {
+  "name": "Boeing 787-9 (Japan Airlines) by FG Airlines ",
+  "livery": "121",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_121.jpg"
+  },
+  {
+  "name": "Boeing 787-9 (Finnair) by Burner7 ",
+  "livery": "134",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_134.jpg"
+  },
+  {
+  "name": "Boeing 787-9 (AI) by AI & Ahnaf552 ",
+  "livery": "131",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_131.jpg"
   }
   ]}
 
+
+//should work with URLs and livery IDs now
 livObj.aircraft.forEach(function(e){
   var dropdown = document.createElement('li');
   dropdown.innerHTML = e.name;
   document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown);
-  dropdown.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery(' + e.livery + ')');
-
+  if (e.livery.includes("https://")) {
+  dropdown.setAttribute("onclick", 'geofs.api.Model.prototype.changeTexture(' + e.livery + ', 0, geofs.aircraft.instance.definition.parts[0]["3dmodel"])');
+  }
+  else {
+      dropdown.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery(' + e.livery + ')');
+  }
 })
 
   function updateMultiplayer(){
@@ -596,6 +853,14 @@ livObj.aircraft.forEach(function(e){
    
 updateMultiplayer();
 }, 5000)
+
+//add helper tags to compatible aircraft
+document.querySelectorAll('[data-aircraft]').forEach(function(e){
+   var elemName = e.outerText;
+    if (elemName.includes("Airbus a320neo (Iberia) (by Spice_9)") || elemName.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || elemName.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || elemName.includes("Airbus A319 (Finnair)  (by GT-VRA)")) {
+       e.innerHTML = e.innerHTML + " [Multiliveries Frame]"
+    }
+});
 
 console.log("Loaded!");
 
@@ -618,5 +883,7 @@ contributors.forEach(function(e){
     }
   }
 })
+
+
 console.log(message)
 }, 1000)
