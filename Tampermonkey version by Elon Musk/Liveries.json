@@ -452,28 +452,49 @@
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_127.jpg"
 		},
 		{
-			"name": "Airbus a320neo (Easyjet Europcar) IUH Airways",
+			"name": "Airbus a320neo (Easyjet Europcar) by IUH Airways",
 			"livery": "135.6",
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_135.6.jpg"
 		},
 		{
-			"name": "Airbus a320neo (NEA Exeter) IUH Airways",
+			"name": "Airbus a320neo (NEA Exeter) by IUH Airways",
 			"livery": "154",
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_154.jpg"
 		},
 		{
-			"name": "Airbus a320neo (Air Malta) SriLankanflyer",
+			"name": "Airbus a320neo (Air Malta) by SriLankanflyer",
 			"livery": "158",
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_158.jpg"
 		},
 		{
-			"name": "Airbus a320neo (Thomas cook) IUH Airways",
+			"name": "Airbus a320neo (Thomas cook) by IUH Airways",
 			"livery": "160",
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_160.jpg"
 		},
+		     {
+			"name": "Airbus a320neo (Vietjet) by Jaden Aviation",
+			"livery": "166",
+			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_166.jpg"
+		},
+		     {
+			"name": "Airbus a320neo (Air Macau) by ThatOneBestDoggo",
+			"livery": "168",
+			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_168.jpg"
+		},
+		    {
+  "name": "Airbus a320neo (Easyjet Berlin) by IUH Airways",
+  "livery": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_173.jpg",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_173.jpg"
+  },
+	
+	{
+  "name": "Airbus a320neo (Great British Air) by IUH Airways",
+  "livery": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_174.jpg",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_174.jpg"
+  },
 		{
 			"name": "Airbus a220 (Breeze) ",
-			"livery": "135",
+			"livery": "135.5",
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_135.5.jpg"
 		},
 		{
@@ -621,6 +642,16 @@
 			"livery": "97.7",
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.7.jpg"
 		},
+		      {
+  "name": "Airbus a319 (Tiger Air) by Jaden",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg"
+  },
+	 {
+  "name": "Airbus a319 (Air Canada) by Jaden",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg"
+  },
 		{
 			"name": "Boeing 787-10 (Vietnam Airlines) ",
 			"livery": "41",
@@ -690,11 +721,6 @@
 			"name": "Boeing 787-10 (Vist Vietnam) by JadenAviation",
 			"livery": "155",
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_155.jpg"
-		},
-		{
-			"name": "Boeing 787-10 (Air Vietnam) by JadenAviation",
-			"livery": "156",
-			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_156.jpg"
 		},
 		{
 			"name": "Boeing 787-10 (Juneyao silk ribbon) by Burner7",
